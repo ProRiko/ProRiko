@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProRiko
+- 👋 Hi, I’m Ribhu aka Proriko
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Model Training
